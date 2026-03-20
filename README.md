@@ -34,3 +34,5 @@ ros2 bag play rgbd_bag_0.mcap --loop --rate 0.5
 - Detects cylinders in all 3 rosbags
 - Correctly classifies Red, Green, Blue cylinders
 - Bonus: Pink cylinder detected in rgbd_bag_2
+## Results
+![Cylinder Detection](images/Screenshot from 2026-03-19 22-08-37.png)
